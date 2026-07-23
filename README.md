@@ -2,55 +2,49 @@
 
 Backend Engineer with **6+ years of professional experience** specializing in **Odoo ERP**, **Python**, **PostgreSQL**, and **Golang**.
 
-Since **2020**, I've been building ERP systems, backend services, and business automation solutions for companies across **Indonesia, Vietnam, China, Africa, and the Middle East**. My work focuses on scalable architecture, system integrations, database optimization, and delivering reliable software for production environments.
+Since **2020**, I've been delivering ERP implementations, backend systems, and business automation solutions for organizations across **Indonesia, Vietnam, China, Africa, and the Middle East**. I focus on building scalable software, optimizing business processes, and delivering reliable production systems.
 
 ---
 
-## 🚀 What I Do
+## 💼 Expertise
 
-- Develop and customize enterprise Odoo ERP solutions
-- Design scalable backend services using Python and Golang
-- Build REST APIs and third-party system integrations
-- Optimize PostgreSQL databases for performance and reliability
-- Automate business processes and enterprise workflows
-- Deploy applications using Docker and CI/CD pipelines
+- Enterprise Odoo ERP Development
+- Odoo Implementation & Customization
+- Business Process Automation
+- Backend Development (Python & Golang)
+- REST API & System Integration
+- PostgreSQL Database Design & Performance Tuning
+- Redis Caching & RabbitMQ Messaging
+- Docker, Linux & CI/CD
+- Software Architecture & Technical Consulting
 
 ---
 
 ## 🌍 International Project Experience
 
 | Region | Projects |
-|---------|----------|
+| :------ | :------- |
 | 🇮🇩 Indonesia | abuent, abucom, ipb, orisa |
 | 🇻🇳 Vietnam | beebeeent, beebeecom |
 | 🇨🇳 China | shanghai-agc |
 | 🌍 Africa | agrof |
 | 🌍 Middle East | maraa-ent, maraa-com |
 
-### Typical Responsibilities
-
-- End-to-end Odoo implementation
-- Custom module development
-- ERP localization
-- Multi-company & multi-warehouse configuration
-- API integrations
-- Legacy data migration
-- PostgreSQL performance tuning
-- Docker deployment & CI/CD
-- Technical documentation and production support
-
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technical Stack
+
+**Languages**
+
+- Python
+- Golang
 
 **ERP**
 
 - Odoo
-- Python
 
 **Backend**
 
-- Golang
 - REST API
 - Microservices
 
@@ -58,9 +52,13 @@ Since **2020**, I've been building ERP systems, backend services, and business a
 
 - PostgreSQL
 - Query Optimization
-- Performance Tuning
 - Database Design
-- Data Migration
+- Database Migration
+
+**Caching & Messaging**
+
+- Redis
+- RabbitMQ
 
 **Frontend**
 
@@ -73,21 +71,44 @@ Since **2020**, I've been building ERP systems, backend services, and business a
 - Linux
 - Git
 - CI/CD
+- Nginx
 
 ---
 
-## 🎯 Currently Interested In
+## 📌 Core Responsibilities
+
+- End-to-end Odoo ERP implementation
+- Custom module development
+- ERP localization
+- Multi-company & multi-warehouse configuration
+- API integration with third-party systems
+- Legacy ERP data migration
+- PostgreSQL performance optimization
+- Production deployment using Docker
+- CI/CD implementation
+- Technical documentation and production support
+
+---
+
+## 🤝 Open to Work
+
+I’m open to opportunities in:
 
 - Senior Odoo Developer
 - Backend Engineer (Python / Golang)
-- ERP Solution Architecture
-- PostgreSQL Performance Optimization
-- Remote Engineering Opportunities
+- ERP Technical Consultant
+- ERP Solution Architect
+- Remote Contract
+- Full-time Remote
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- 💼 LinkedIn — https://www.linkedin.com/in/slametdev
-- 📧 Email — <slametdev200@gmail.com>
-- 📺 YouTube — https://www.youtube.com/@slametdev200
+- 💼 LinkedIn: https://www.linkedin.com/in/slametdev
+- 📧 Email: <slametdev200@gmail.com>
+- 📺 YouTube: https://www.youtube.com/@slametdev200
+
+---
+
+*"Building scalable ERP systems and backend services that solve real business challenges."*
