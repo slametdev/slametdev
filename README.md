@@ -1,57 +1,93 @@
-# Slamet — call me SlametDev 👋
+# Hi, I'm Slamet (SlametDev) 👋
 
-I design and deliver production-ready Odoo implementations and robust backend APIs for international clients. I focus on measurable business outcomes: reliable operations, accurate inventory & finance flows, and scalable systems.
+Backend Engineer with **6+ years of professional experience** specializing in **Odoo ERP**, **Python**, **PostgreSQL**, and **Golang**.
 
----
-
-## Odoo Implementations — Selected Clients
-End-to-end Odoo projects (discovery → localization → integration → rollout) for companies across Asia, Africa, and the Middle East.
-
-- Indonesia: abuent, abucom, ipb, orisa  
-- Vietnam: beebeeent, beebeecom  
-- China: shanghai-agc  
-- Africa: agrof  
-- Arab region: maraa-ent, maraa-com
-
-Common engagement scope:
-- Full-cycle implementation and localization (taxes, invoicing, local reporting)  
-- Multi-company, multi-warehouse setups for distribution & logistics  
-- Integrations: POS, e‑commerce, 3PL, payment gateways, customs systems  
-- Data migration with validation pipelines from legacy ERPs/spreadsheets  
-- Performance tuning (PostgreSQL indexing, query optimization, scaling)  
-- CI/CD and containerized deployments (Docker) for repeatable releases  
-- Training, documentation, and long-term support
+Since **2020**, I've been building ERP systems, backend services, and business automation solutions for companies across **Indonesia, Vietnam, China, Africa, and the Middle East**. My work focuses on scalable architecture, system integrations, database optimization, and delivering reliable software for production environments.
 
 ---
 
-## Core Expertise
-- Odoo: custom modules, business workflows, API integrations  
-- Backend & APIs: Python, Golang (REST, gRPC, microservices)  
-- Databases: PostgreSQL (schema design, indexing, tuning, migrations)  
-- Frontend integration: Svelte (lightweight UIs & admin tools)  
-- Mobile: Flutter (cross-platform clients & backend integrations)  
-- DevOps & Reliability: Docker, Linux, CI/CD, observability (logs & metrics)  
-- Practices: API design, automated testing, security, performance optimization
+## 🚀 What I Do
+
+- Develop and customize enterprise Odoo ERP solutions
+- Design scalable backend services using Python and Golang
+- Build REST APIs and third-party system integrations
+- Optimize PostgreSQL databases for performance and reliability
+- Automate business processes and enterprise workflows
+- Deploy applications using Docker and CI/CD pipelines
 
 ---
 
-## How I Work
-- Start with domain discovery and measurable KPIs.  
-- Deliver fast, validated MVP flows, then iterate for scale.  
-- Prioritize observability and safe migrations (tests, monitoring).  
-- Provide clear documentation and client upskilling for sustainable operations.
+## 🌍 International Project Experience
+
+| Region | Projects |
+|---------|----------|
+| 🇮🇩 Indonesia | abuent, abucom, ipb, orisa |
+| 🇻🇳 Vietnam | beebeeent, beebeecom |
+| 🇨🇳 China | shanghai-agc |
+| 🌍 Africa | agrof |
+| 🌍 Middle East | maraa-ent, maraa-com |
+
+### Typical Responsibilities
+
+- End-to-end Odoo implementation
+- Custom module development
+- ERP localization
+- Multi-company & multi-warehouse configuration
+- API integrations
+- Legacy data migration
+- PostgreSQL performance tuning
+- Docker deployment & CI/CD
+- Technical documentation and production support
 
 ---
 
-## Open to
-- Odoo implementations and technical leadership roles  
-- Building backend APIs (Golang/Python) and mobile integrations (Flutter)  
-- Consulting on PostgreSQL performance, migrations, and ERP architecture  
-- Remote collaboration with international teams
+## 🛠️ Tech Stack
+
+**ERP**
+
+- Odoo
+- Python
+
+**Backend**
+
+- Golang
+- REST API
+- Microservices
+
+**Database**
+
+- PostgreSQL
+- Query Optimization
+- Performance Tuning
+- Database Design
+- Data Migration
+
+**Frontend**
+
+- Svelte
+- Flutter
+
+**DevOps**
+
+- Docker
+- Linux
+- Git
+- CI/CD
 
 ---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/your-profile (replace)  
-- Email: your.name@example.com (replace)  
-- Portfolio: https://your-
+## 🎯 Currently Interested In
+
+- Senior Odoo Developer
+- Backend Engineer (Python / Golang)
+- ERP Solution Architecture
+- PostgreSQL Performance Optimization
+- Remote Engineering Opportunities
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn — https://www.linkedin.com/in/slametdev
+- 📧 Email — <slametdev200@gmail.com>
+- 📺 YouTube — https://www.youtube.com/@slametdev200
