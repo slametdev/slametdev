@@ -14,19 +14,21 @@
 
 </p>
 
-# Hi, I'm Slamet (SlametDev) 👋
+# Hi, I'm Slamet 👋
 
-## Senior Backend Engineer | Odoo ERP Specialist
+## Backend Engineer | Odoo ERP Specialist
 
 Backend Engineer with **6+ years of professional experience** specializing in **Odoo ERP**, **Python**, **PostgreSQL**, and **Golang**.
 
-Since **2020**, I've been designing, developing, and maintaining enterprise ERP systems and backend services for organizations across **Indonesia, Vietnam, China, Africa, and the Middle East**. My work focuses on building scalable business applications, optimizing system performance, integrating enterprise platforms, and delivering reliable production software.
+Since **2020**, I've been building enterprise ERP solutions and backend systems for organizations across **Indonesia, Vietnam, China, Africa, and the Middle East**. My work focuses on scalable backend architecture, ERP implementation, system integration, database optimization, and delivering reliable software for production environments.
+
+I enjoy collaborating with distributed teams, solving complex business problems, and building software that is scalable, maintainable, and easy to operate.
 
 ---
 
 ## 🌍 International Experience
 
-I've contributed to ERP implementation and digital transformation projects for organizations across multiple countries.
+Contributed to ERP implementation and backend development projects for organizations across multiple regions.
 
 | Region | Projects |
 | :------ | :------- |
@@ -38,17 +40,15 @@ I've contributed to ERP implementation and digital transformation projects for o
 
 ---
 
-## 💼 Professional Expertise
+## 💼 Areas of Expertise
 
 - Enterprise Odoo ERP Development
 - Odoo Implementation & Customization
 - ERP Solution Architecture
-- Business Process Automation
 - Backend Development (Python & Golang)
 - REST API Development
 - Third-party System Integration
-- PostgreSQL Database Design
-- PostgreSQL Performance Optimization
+- PostgreSQL Database Design & Performance Optimization
 - Redis Caching
 - RabbitMQ Message Queues
 - Docker & Linux Infrastructure
@@ -57,24 +57,24 @@ I've contributed to ERP implementation and digital transformation projects for o
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
 - Python
 - Golang
 
-### ERP
+**ERP**
 
 - Odoo Community
 - Odoo Enterprise
 
-### Backend
+**Backend**
 
 - REST API
 - Microservices
 
-### Database
+**Database**
 
 - PostgreSQL
 - Database Design
@@ -82,17 +82,17 @@ I've contributed to ERP implementation and digital transformation projects for o
 - Performance Tuning
 - Database Migration
 
-### Caching & Messaging
+**Caching & Messaging**
 
 - Redis
 - RabbitMQ
 
-### Frontend
+**Frontend**
 
 - Svelte
 - Flutter
 
-### DevOps & Infrastructure
+**DevOps & Infrastructure**
 
 - Docker
 - Docker Compose
@@ -104,7 +104,9 @@ I've contributed to ERP implementation and digital transformation projects for o
 
 ---
 
-## 📌 What I Usually Work On
+## 📌 Professional Experience
+
+My responsibilities typically include:
 
 - Enterprise Odoo ERP implementation
 - Custom Odoo module development
@@ -113,40 +115,41 @@ I've contributed to ERP implementation and digital transformation projects for o
 - REST API development
 - Third-party system integration
 - Legacy ERP data migration
-- PostgreSQL performance tuning
-- Redis caching implementation
-- RabbitMQ asynchronous messaging
+- PostgreSQL performance optimization
+- Redis caching & RabbitMQ implementation
 - Docker containerization
 - CI/CD pipeline implementation
 - Production deployment and maintenance
 - Performance troubleshooting
 - Technical documentation
-- User training and technical support
+- End-user training and technical support
 
 ---
 
-## 🎯 Currently Open To
+## 🌐 Open to Remote Opportunities
 
-I’m currently open to remote opportunities as:
+I'm currently interested in:
 
-- Senior Backend Engineer
-- Senior Odoo Developer
+- Backend Engineer (Python / Golang)
+- Odoo ERP Developer
 - Odoo Technical Consultant
 - ERP Solution Architect
-- Python Backend Engineer
-- Golang Backend Engineer
 - Backend API Engineer
-- Remote Contractor
-- Full-time Remote Engineer
+
+**Preferred Work Type**
+
+- 🌍 Fully Remote
+- 🤝 International Teams
+- 📄 Full-time
+- 📃 Long-term Contract
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/slametdev
 - 📧 Email: **slametdev200@gmail.com**
-- 📺 YouTube: https://www.youtube.com/@slametdev200
 
 ---
 
-> **Building scalable ERP systems, high-performance backend services, and software that solves real business challenges.**
+> *Building reliable ERP systems and scalable backend solutions for global businesses.*
